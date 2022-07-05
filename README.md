@@ -20,7 +20,8 @@ A flow is the part of Salesforce Flow that collects data and performs actions in
 - <b>Salesforce.com</b> 
 - <b>Salesforce CRM platforms </b>
 - <b>Salesforce Automation Tools</b>
- <a> Example 1 - Verify Identity </a>
+<br>
+ <a> Example 1 - Verify Identity </a> </br>
 <p align="center">
 <br/>
 <img src="Flow Images/Verify Identity.png"/>
